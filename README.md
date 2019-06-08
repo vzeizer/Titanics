@@ -1,3 +1,26 @@
+# Project of Titanic Data Set of Udacity
+
+## Overview of the project
+In this project, you will analyze a data set and, afterwards, communicate your conclusions about the subject.
+You are going to use NumPy, Pandas and Matplotlib libraries to facilitate your analysis.
+
+## What to install?
+
+-> Python 3.4 or greater
+-> pandas
+-> numpy
+-> matplotlib
+-> csv
+
+
+#Introduction
+
+For the final project, you will do your own data analysis and create a file that documents your discoveries and can be shared.
+You will begin by taking a look at the dataset and making a question brainstorming and answer them. 
+Afterwards, you should use Pandas and NumPy to answer the questions which most interests you and create a report by sharing your answers.
+You are not forced to use statistics nor deep learning to finish this project, but it must be clear in your communication that your conclusions are not definite
+This project is open, in the sense that we are not looking for an exact answer.
+
 
 
 
