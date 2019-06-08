@@ -6,14 +6,14 @@ You are going to use NumPy, Pandas and Matplotlib libraries to facilitate your a
 
 ## What to install?
 
--> Python 3.4 or greater
--> pandas
--> numpy
--> matplotlib
--> csv
+1. Python 3.4 or greater
+2. pandas
+3. numpy
+4. matplotlib
+5. csv
 
 
-#Introduction
+# Introduction
 
 For the final project, you will do your own data analysis and create a file that documents your discoveries and can be shared.
 You will begin by taking a look at the dataset and making a question brainstorming and answer them. 
