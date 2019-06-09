@@ -1,6 +1,7 @@
-# Project of Titanic Data Set of Udacity
+# Project "Titanic Data Set Analysis" of Udacity's Nanodegree Data Science Foundations I
 
-## Overview of the project
+## Overview of the project (according To Udacity)
+
 In this project, you will analyze a data set and, afterwards, communicate your conclusions about the subject.
 You are going to use NumPy, Pandas and Matplotlib libraries to facilitate your analysis.
 
@@ -26,6 +27,13 @@ This project is open, in the sense that we are not looking for an exact answer.
 
 
 ## Content of the files: 
+
+
+1. project_titanics_finalreport.html : this is the html file of the notebook.
+2. project_titanics_finalreport.ipynb : the notebook where the analysis has been done!
+3. project_titanics_finalreport.pdf : pdf of the notebook.
+4. Rubrics_Udacity.pdf : rubrics of the project according to Udacity.
+5. titanic-data-6.csv: the data set of Titanic, which was analyzed.
 
 
 
