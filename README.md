@@ -14,12 +14,12 @@ You are going to use NumPy, Pandas and Matplotlib libraries to facilitate your a
 5. csv
 
 
-# Introduction
+# Introduction (according to Udacity)
 
-For the final project, you will do your own data analysis and create a file that documents your discoveries and can be shared.
+For the final project, you will do your own data analysis and create a file that documents your discoveries and can be shared with others.
 You will begin by taking a look at the dataset and making a question brainstorming and answer them. 
 Afterwards, you should use Pandas and NumPy to answer the questions which most interests you and create a report by sharing your answers.
-You are not forced to use statistics nor deep learning to finish this project, but it must be clear in your communication that your conclusions are not definite
+You are not forced to use statistics nor deep learning to finish this project, but it must be clear in your communication that your conclusions are not definite.
 This project is open, in the sense that we are not looking for an exact answer.
 
 
@@ -31,7 +31,7 @@ This project is open, in the sense that we are not looking for an exact answer.
 
 1. project_titanics_finalreport.html : this is the html file of the notebook.
 2. project_titanics_finalreport.ipynb : the notebook where the analysis has been done!
-3. project_titanics_finalreport.pdf : pdf of the notebook.
+3. project_titanics_finalreport.pdf : pdf file of the notebook.
 4. Rubrics_Udacity.pdf : rubrics of the project according to Udacity.
 5. titanic-data-6.csv: the data set of Titanic, which was analyzed.
 
